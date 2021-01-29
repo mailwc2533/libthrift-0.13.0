@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+.idea
+libthrift-0.13.0-sources.iml

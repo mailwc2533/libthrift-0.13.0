@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7888e72e-6fa6-4012-8ce7-68c114b7824e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fzfTV7EWfXkau2mLFV2ZjHdwHa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/org/apache/thrift/test/socket" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/org/apache/thrift/test/socket" />
+      <recent name="$PROJECT_DIR$/org/apache/thrift/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThriftClient">
+    <configuration name="ThriftClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.thrift.test.socket.ThriftClient" />
+      <module name="libthrift-0.13.0-sources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.thrift.test.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThriftServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.thrift.test.socket.ThriftServer" />
+      <module name="libthrift-0.13.0-sources" />
+      <option name="VM_PARAMETERS" value="-Dlog4j.configuration=file:$PROJECT_DIR$/resource/log4j.properties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.thrift.test.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.thrift.test.socket.ZServer" />
+      <module name="libthrift-0.13.0-sources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.thrift.test.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ThriftClient" />
+      <item itemvalue="Application.ThriftServer" />
+      <item itemvalue="Application.ZServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThriftClient" />
+        <item itemvalue="Application.ThriftServer" />
+        <item itemvalue="Application.ZServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7888e72e-6fa6-4012-8ce7-68c114b7824e" name="Default Changelist" comment="" />
+      <created>1597225849059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597225849059</updated>
+      <workItem from="1597225850270" duration="2416000" />
+      <workItem from="1602731803614" duration="223000" />
+      <workItem from="1602732093331" duration="52274000" />
+      <workItem from="1604655959091" duration="7713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="54" width="1193" height="971" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603265797782">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="417" y="54" width="1193" height="971" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603265797782" />
+    <state x="695" y="112" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602733950666">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="695" y="112" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1602733950666" />
+    <state x="679" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1603247362519">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="679" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603247362519" />
+    <state width="560" height="907" key="DebuggerActiveHint" timestamp="1603348807317">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="560" height="907" key="DebuggerActiveHint/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603348807317" />
+    <state width="1858" height="301" key="GridCell.Tab.0.bottom" timestamp="1603937586823">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603350213174" />
+    <state width="1858" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1603937586823" />
+    <state width="1858" height="301" key="GridCell.Tab.0.center" timestamp="1603937586821">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="301" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603350213171" />
+    <state width="1858" height="301" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1603937586821" />
+    <state width="1858" height="301" key="GridCell.Tab.0.left" timestamp="1603937586819">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="301" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603350213169" />
+    <state width="1858" height="301" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1603937586819" />
+    <state width="1858" height="301" key="GridCell.Tab.0.right" timestamp="1603937586822">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="301" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603350213172" />
+    <state width="1858" height="301" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1603937586822" />
+    <state width="1858" height="301" key="GridCell.Tab.1.bottom" timestamp="1603937586829">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603350213179" />
+    <state width="1858" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1603937586829" />
+    <state width="1858" height="301" key="GridCell.Tab.1.center" timestamp="1603937586826">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="301" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603350213177" />
+    <state width="1858" height="301" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1603937586826" />
+    <state width="1858" height="301" key="GridCell.Tab.1.left" timestamp="1603937586825">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="301" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603350213175" />
+    <state width="1858" height="301" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1603937586825" />
+    <state width="1858" height="301" key="GridCell.Tab.1.right" timestamp="1603937586827">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="301" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603350213178" />
+    <state width="1858" height="301" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1603937586827" />
+    <state x="192" y="8" width="1536" height="1072" key="SettingsEditor" timestamp="1603335180442">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="192" y="8" width="1536" height="1072" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603335180442" />
+    <state width="960" height="540" key="XDebugger.FullValuePopup" timestamp="1603262482719">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="960" height="540" key="XDebugger.FullValuePopup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603262482719" />
+    <state x="457" y="0" width="1005" height="1080" key="search.everywhere.popup" timestamp="1603260821414">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="457" y="0" width="1005" height="1080" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1603260821414" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/org/apache/thrift/test/socket/ThriftServer.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/org/apache/thrift/server/TNonblockingServer.java</url>
+          <line>156</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/org/apache/thrift/server/TThreadPoolServer.java</url>
+          <line>185</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/org/apache/thrift/test/socket/ThriftServer.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/org/apache/thrift/TBaseProcessor.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/org/apache/thrift/server/AbstractNonblockingServer.java</url>
+          <line>346</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/org/apache/thrift/transport/TFramedTransport.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/org/apache/thrift/transport/TFramedTransport.java</url>
+          <line>176</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/org/apache/thrift/server/AbstractNonblockingServer.java</url>
+          <line>379</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
